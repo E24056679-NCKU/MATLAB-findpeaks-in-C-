@@ -2,7 +2,7 @@
 Implementation of MATLAB findpeaks function in C++
 
 Three functions for finding local_maxima or local_minima or both
-These three functions are the wrapper functions of a same function
+These three functions are the wrapper functions of the same function
 
 void findLocalMaxima(const std::vector<double> &v, std::vector<double> &maxPks, std::vector<int> &maxLocs);
 
