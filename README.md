@@ -1,4 +1,4 @@
-# MATLAB-findpeaks-in-C-
+# MATLAB findpeaks in C++
 Implementation of MATLAB findpeaks function in C++
 
 Three functions for finding local_maxima or local_minima or both
