@@ -8,4 +8,4 @@ void findLocalMaxima(const std::vector<double> &v, std::vector<int> &maxLocs);
 
 void findLocalMinima(const std::vector<double> &v, std::vector<int> &minLocs);
 
-void findLocalExtrema(const std::vector<double> &v,std::vector<int> &maxLocs, std::vector<int> &minLocs);
+void findLocalExtrema(const std::vector<double> &v, std::vector<int> &maxLocs, std::vector<int> &minLocs);
